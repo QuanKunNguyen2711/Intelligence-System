@@ -1,0 +1,14 @@
+py-vncorenlp
+uvicorn
+scikit-learn
+transformers
+motor
+python-dotenv
+pandas
+fastapi
+unidecode
+bcrypt
+PyJWT==2.8.0
+torch==2.2.2 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.17.2 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
